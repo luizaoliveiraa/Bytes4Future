@@ -1,0 +1,8 @@
+.wrapperDark {
+    background-color: #1c1c1c;
+    color: rgb(129, 95, 200)
+}
+.wrapperLight {
+    color: #1c1c1c;
+    background-color: rgb(129, 95, 200)
+}

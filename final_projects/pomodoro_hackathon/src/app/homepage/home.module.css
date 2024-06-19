@@ -1,0 +1,11 @@
+.upDiv {
+  margin-top: 20px;
+}
+
+.pomodoro {
+  font-size: 30px;
+  text-align: center;
+  font-weight: 700;
+  color: white;
+  text-transform: uppercase;  
+}

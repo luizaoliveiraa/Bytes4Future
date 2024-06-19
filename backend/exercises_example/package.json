@@ -1,0 +1,20 @@
+{
+  "name": "teste-exemplo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "nodemon main_express_static.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "isomorphic-unfetch": "^4.0.2",
+    "jest": "^29.7.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
